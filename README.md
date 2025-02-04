@@ -6,7 +6,8 @@ Este é um projeto simples de um componente de QR Code baseado no desafio do Fro
 
 🖼️ Captura de Tela
 
-![image](https://github.com/user-attachments/assets/c946b74b-0eee-4a4b-8091-0731daa02d0a)
+![image](https://github.com/user-attachments/assets/6f9b6a6e-7f55-4f46-9b77-9ce16a7d265e)
+
 
 
 🚀 Tecnologias Utilizadas
