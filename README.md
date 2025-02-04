@@ -33,7 +33,7 @@ O design segue as diretrizes do desafio, utilizando CSS Flexbox para centraliza√
 
 Clone este reposit√≥rio:
 
-https://github.com/danielsantos011/P-ginaQRCODE.git
+https://github.com/danielsantos011/paginaQRCODE.git
 
 Abra o arquivo index.html no navegador.
 
